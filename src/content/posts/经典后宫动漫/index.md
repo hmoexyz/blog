@@ -3,7 +3,7 @@ title: 经典后宫动漫
 published: 2024-07-09
 description: '你们都是我的翅膀'
 image: './约会大作战.jpg'
-tags: ['后宫']
+tags: ['后宫', '美少女']
 category: '番剧推荐'
 draft: false 
 lang: ''

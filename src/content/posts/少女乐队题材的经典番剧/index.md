@@ -3,7 +3,7 @@ title: 少女乐队题材的经典番剧
 published: 2024-11-08
 description: '组一辈子乐队'
 image: './孤独摇滚.jpg'
-tags: ['少女', '乐队', '音乐', '轻百合']
+tags: ['美少女', '乐队', '音乐', '轻百合']
 category: '番剧推荐'
 draft: false 
 lang: ''
