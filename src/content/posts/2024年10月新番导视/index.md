@@ -1,7 +1,7 @@
 ---
 title: 2024年10月新番导视
 published: 2024-10-01
-description: ''
+description: '故事发生在一座名为欧拉丽的繁华都市之中，这座城市的地下有着极其庞大复杂的迷宫，人们称之为地下城。'
 image: './地下城邂逅.jpg'
 tags: ['新番导视', '番剧推荐']
 category: '新番导视'

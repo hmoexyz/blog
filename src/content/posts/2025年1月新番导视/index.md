@@ -1,7 +1,7 @@
 ---
 title: 2025年1月新番导视
 published: 2025-01-01
-description: ''
+description: '在异世界陷入迷茫的普通高中生菜月昴，邂逅了一位银发的美少女。'
 image: './RE0.jpg'
 tags: ['新番导视', '番剧推荐']
 category: '新番导视'

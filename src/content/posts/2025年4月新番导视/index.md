@@ -1,7 +1,7 @@
 ---
 title: 2025年4月新番导视
 published: 2025-04-01
-description: ''
+description: '为了整理外婆的遗物，主人公鹰原羽依里在暑假独自来到了鸟白岛。'
 image: './夏日口袋.jpg'
 tags: ['新番导视', '番剧推荐']
 category: '新番导视'
